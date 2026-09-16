@@ -3,13 +3,10 @@
 ## QUESTION:
 - A pirate ship has a code lock that only opens if:
 
-  - The input code is even, and
-
-    - If it is less than 100, say "Weak Code".
-
-    - If it is between 100 and 999, say "Strong Code".
-
- - If the code is odd, deny access -"Access Denied".
+- - The input code is even, and
+- - - If it is less than 100, say "Weak Code".
+- - - If it is between 100 and 999, say "Strong Code".
+- - If the code is odd, deny access -"Access Denied".
 
 ## AIM:
 To write a Java program that accepts a code number and determines the security level based on the given conditions:
