@@ -31,17 +31,15 @@ To write a Java program that initializes object variables using a constructor an
 
 
 ## PROGRAM:
- ```
-/*
+```
 Program to implement a Variable scope and Constructor using Java
 Developed by: LOKNAATH P
 RegisterNumber: 212223240080
-*/
 ```
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.Scanner;
 
 class Student {
