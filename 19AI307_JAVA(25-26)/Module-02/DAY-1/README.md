@@ -34,7 +34,7 @@ RegisterNumber: 212223230145
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.Scanner;
 
 class Car {
